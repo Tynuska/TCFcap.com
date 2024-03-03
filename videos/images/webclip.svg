@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tcf copy 2</title>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tcf-copy-2" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#F7E0CE" x="0" y="0" width="256" height="256"></rect>
+            <path d="M116.898382,35.3380432 L213.333333,35.3380432 L213.333333,220.254548 C213.333333,220.254548 212.339158,215.946458 212.339158,215.615066 C204.054369,185.789823 175.223301,75.1050337 45.9805824,36.6636097 C45.649191,36.6636097 42.9980584,35.6694349 42.6666667,35.6694349 L116.898382,35.6694349 L116.898382,35.3380432 Z" id="Path" fill="#1F2E40"></path>
+        </g>
+    </g>
+</svg>
